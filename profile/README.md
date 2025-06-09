@@ -81,4 +81,4 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-Fundusnap Developers <dev@fundunsnap.com>
+Fundusnap Developers <dev@fundusnap.com>
