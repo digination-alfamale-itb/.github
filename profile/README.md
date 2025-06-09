@@ -7,7 +7,7 @@ Fundusnap is a comprehensive medical imaging solution designed to help healthcar
 
 ## 🏥 Project Components
 
-### 1. Fundusnap Mobile App (`Fundusnap-App`)
+### 1. Fundusnap Mobile App ([Fundusnap-App](https://github.com/fundusnap/Fundusnap-App))
 A modern cross-platform mobile application built with Flutter that provides:
 - High-quality fundus image capture
 - Video recording capabilities
@@ -27,7 +27,7 @@ A modern cross-platform mobile application built with Flutter that provides:
   - Image Picker: `image_picker: ^1.1.2`
   - HTTP Client: `dio: ^5.8.0+1`
 
-### 2. Fundusnap API (`fundusnap-api`)
+### 2. Fundusnap API ([fundusnap-api](https://github.com/fundusnap/fundusnap-api))
 A robust backend service that handles:
 - User authentication and management
 - Image analysis and processing
@@ -46,7 +46,7 @@ A robust backend service that handles:
   - OpenRouter API with Microsoft MAI-DS-R1 model
 - Email Service: Nodemailer
 
-### 3. Fundusnap AI (`fundusnap-ai`)
+### 3. Fundusnap AI ([fundusnap-ai](https://github.com/fundusnap/fundusnap-ai))
 An offline-capable image classification system that serves as a fallback solution for:
 - Offline image analysis
 - Poor network connectivity scenarios
